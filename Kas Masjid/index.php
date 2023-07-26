@@ -90,7 +90,7 @@
 			<!-- Brand Logo -->
 			<a href="http://localhost/kas_masjid/" class="brand-link">
 				<img src="dist/img/masjid.jpg" alt="AdminLTE Logo" class="brand-image" style="opacity: .8">
-				<span class="brand-text font-weight-light"> Masjid Darul Ilmi</span>
+				<span class="brand-text font-weight-light"> Masjid Islam</span>
 			</a>
 
 			<!-- Sidebar -->
@@ -474,7 +474,7 @@
 
 		<footer class="main-footer">
 			<div class="float-right d-none d-sm-block">
-				Masjid Darul 'Ilmi Universitas Muria Kudus
+				Masjid Islam Universitas Islam Sultan Agung
 			</div>
 			Copyright &copy;
 			<a target="_blank" href="https://www.facebook.com/radenmas.brono">
